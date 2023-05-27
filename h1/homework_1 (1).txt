@@ -1,2 +1,0 @@
-usage: export_file filename
-Export a file outside the VM
